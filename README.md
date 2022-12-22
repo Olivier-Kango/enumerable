@@ -122,5 +122,4 @@ Feel free to check the [issues page](https://github.com/Olivier-Kango/enumerable
 
 This project is [MIT](./LICENSE.txt) licensed.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
